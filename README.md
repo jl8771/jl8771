@@ -14,6 +14,7 @@ ___
 ![](https://img.shields.io/static/v1?label=%7F&message=NumPy&color=yellow&logoColor=white&logo=numpy "NumPy")
 ![](https://img.shields.io/static/v1?label=%7F&message=SciPy&color=yellow&logoColor=white&logo=scipy "SciPy")
 ![](https://img.shields.io/static/v1?label=%7F&message=pandas&color=yellow&logoColor=white&logo=pandas "pandas")
+![](https://img.shields.io/static/v1?label=%7F&message=Plotly%20%26%20Dash&color=yellow&logoColor=white&logo=plotly "Plotly & Dash")
 ![](https://img.shields.io/static/v1?label=%7F&message=PySpark&color=yellow&logoColor=white&logo=apachespark "PySpark")
 ![](https://img.shields.io/static/v1?label=%7F&message=Java&color=yellow&logoColor=white&logo=java "Java")
 ![](https://img.shields.io/static/v1?label=%7F&message=C&color=yellow&logoColor=white&logo=c "C")

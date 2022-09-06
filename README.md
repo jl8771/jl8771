@@ -1,7 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ___
 ### 👨‍💻 Introduction
-My name is Jacky Luo (he/him) and I am a recent graduate from the Carleton University's Bachelor of Engineering program in electrical engineering. Always curious, always learning;
+My name is Jacky Luo (he/him) and I am a graduate from the Carleton University's Bachelor of Engineering program in electrical engineering. Always curious, always learning;
 currently exploring data science, big data, data visualization and machine learning.
 ___
 ### 🛠 Technologies & Tools

@@ -5,9 +5,8 @@ My name is Jacky Luo (he/him) and I am a graduate from the Carleton University's
 currently exploring data science, big data, data visualization and machine learning.
 ___
 ### 🛠 Technologies & Tools
-[![](https://img.shields.io/static/v1?label=%7F&message=Linux&color=yellow&logoColor=white&logo=linux "Linux")](#)
-[![](https://img.shields.io/static/v1?label=%7F&message=Kali%20Linux&color=yellow&logoColor=white&logo=kalilinux "Kali Linux")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Python&color=yellow&logoColor=white&logo=python "Python")](#)
+[![](https://img.shields.io/static/v1?label=%7F&message=R&color=yellow&logoColor=white&logo=r "R")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=TensorFlow&color=yellow&logoColor=white&logo=tensorflow "TensorFlow")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=scikit-learn&color=yellow&logoColor=white&logo=scikitlearn "scikit-learn")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=OpenCV&color=yellow&logoColor=white&logo=opencv "OpenCV")](#)
@@ -33,7 +32,10 @@ ___
 [![](https://img.shields.io/static/v1?label=%7F&message=IBM%20Cloud&color=yellow&logoColor=white&logo=ibmcloud "IBM Cloud")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=AWS%20Sagemaker&color=yellow&logoColor=white&logo=amazonaws "AWS Sagemaker")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Amazon%20S3&color=yellow&logoColor=white&logo=amazons3 "Amazon S3")](#)
-[![](https://img.shields.io/static/v1?label=%7F&message=Ansys%20Electronics&color=yellow&logoColor=white&logo=ansys "Ansys Electronics")](#)
+[![](https://img.shields.io/static/v1?label=%7F&message=Ansys%20Electronics&color=yellow&logoColor=white&logo=ansys "Ansys Electronics")]
+(#)
+[![](https://img.shields.io/static/v1?label=%7F&message=Linux&color=yellow&logoColor=white&logo=linux "Linux")](#)
+[![](https://img.shields.io/static/v1?label=%7F&message=Kali%20Linux&color=yellow&logoColor=white&logo=kalilinux "Kali Linux")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Ansys%20HFSS&color=yellow&logoColor=white&logo=ansys "Ansys HFSS")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Xilinx%20Vivado&color=yellow&logoColor=white&logo=xilinx "Xilinx Vivado")](#)
 

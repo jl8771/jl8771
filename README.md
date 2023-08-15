@@ -8,6 +8,8 @@ ___
 [![](https://img.shields.io/static/v1?label=%7F&message=Python&color=yellow&logoColor=white&logo=python "Python")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=R&color=yellow&logoColor=white&logo=r "R")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=TensorFlow&color=yellow&logoColor=white&logo=tensorflow "TensorFlow")](#)
+[![](https://img.shields.io/static/v1?label=%7F&message=PyTorch&color=yellow&logoColor=white&logo=pytorch "PyTorch")](#)
+[![](https://img.shields.io/static/v1?label=%7F&message=Keras%20Core&color=yellow&logoColor=white&logo=keras "Keras Core")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=scikit-learn&color=yellow&logoColor=white&logo=scikitlearn "scikit-learn")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=OpenCV&color=yellow&logoColor=white&logo=opencv "OpenCV")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=NumPy&color=yellow&logoColor=white&logo=numpy "NumPy")](#)

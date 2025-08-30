@@ -45,4 +45,4 @@ ___
 
 You can reach me with any of the following:
 ><p><a href="mailto:jackyluo1998@gmail.com" target="_blank" rel="noreferrer nofollow">Email</p>
-><p><a href="https://www.linkedin.com/in/jacky-luo-47038b1b6/" target="_blank" rel="noreferrer nofollow">LinkedIn</p>
+><p><a href="https://www.linkedin.com/in/jacky-luo87/" target="_blank" rel="noreferrer nofollow">LinkedIn</p>

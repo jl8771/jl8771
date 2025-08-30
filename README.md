@@ -34,8 +34,7 @@ ___
 [![](https://img.shields.io/static/v1?label=%7F&message=IBM%20Cloud&color=yellow&logoColor=white&logo=ibmcloud "IBM Cloud")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=AWS%20Sagemaker&color=yellow&logoColor=white&logo=amazonaws "AWS Sagemaker")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Amazon%20S3&color=yellow&logoColor=white&logo=amazons3 "Amazon S3")](#)
-[![](https://img.shields.io/static/v1?label=%7F&message=Ansys%20Electronics&color=yellow&logoColor=white&logo=ansys "Ansys Electronics")]
-(#)
+[![](https://img.shields.io/static/v1?label=%7F&message=Ansys%20Electronics&color=yellow&logoColor=white&logo=ansys "Ansys Electronics")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Linux&color=yellow&logoColor=white&logo=linux "Linux")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Kali%20Linux&color=yellow&logoColor=white&logo=kalilinux "Kali Linux")](#)
 [![](https://img.shields.io/static/v1?label=%7F&message=Ansys%20HFSS&color=yellow&logoColor=white&logo=ansys "Ansys HFSS")](#)
